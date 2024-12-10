@@ -1,4 +1,4 @@
-getgenv().AOTREVOLUTION =1 true
+getgenv().AOTREVOLUTION = true
 if game.GameId == 4658598196 and getgenv().AOTREVOLUTION == true then
 
     if not game:IsLoaded() then
